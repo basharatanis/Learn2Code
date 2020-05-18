@@ -32,4 +32,15 @@ All users get alert message when they select wrong option or when they get done 
     Goto the folder where you have downloaded the zip file and extract it.
   
     After that, import the extracted folder to the xcode. 
+    
+    
+## Must-have features
+* A user gets informed when the wrong option is selected in the quiz
+* A user have a reader all the time during quiz to learn and select correct option.
+
+
+## Nice-to-have features
+* A user get instructions at the main screen
+* There is a menu button at the top so that a user can go back to main screen 
+  and restart the quiz
 
