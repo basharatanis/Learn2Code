@@ -43,4 +43,9 @@ All users get alert message when they select wrong option or when they get done 
 * A user get instructions at the main screen
 * There is a menu button at the top so that a user can go back to main screen 
   and restart the quiz
+  
+## Wireframes
+![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/Wireframes/mainscreen.png 100x100)
+![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/Wireframes/quizscreen.png)
+![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/Wireframes/reader.png)
 
