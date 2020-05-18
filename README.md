@@ -17,13 +17,13 @@ All users get alert message when they select wrong option or when they get done 
 
 1. git clone https://github.com/basharatanis/Learn2Code.git 
     
-    cd Learn2Code
+        cd Learn2Code
   
-    cd Learn2Code
+        cd Learn2Code
   
-    cd Learn2Code
+        cd Learn2Code
     
-    xed . 
+        xed . 
   
 2. The second way to run the project is to download the zip file from 
 
