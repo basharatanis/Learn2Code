@@ -1,8 +1,8 @@
-#### Learn2Code
-## San Francisco State University
-## Spring 2020
-#### Author: Basharat Anis 
-## ID# 918786744
+## Learn2Code
+#### San Francisco State University
+#### Spring 2020
+## Author: Basharat Anis 
+#### ID# 918786744
 
 The app "LEARN2CODE" helps people to learn how to code in swift language.
 The user friendly features helps user to take a quiz.
