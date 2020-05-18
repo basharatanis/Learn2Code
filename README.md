@@ -49,6 +49,8 @@ All users get alert message when they select wrong option or when they get done 
 
 
 ## Screenshots
+![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/Screenshots/Screenshots.png)
+For clear screenshots keep scrolling down.
 ![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/Screenshots/mainscreen.png)
 ![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/Screenshots/Quiz.png)
 ![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/Screenshots/Reader.png)
