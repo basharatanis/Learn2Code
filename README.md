@@ -29,7 +29,7 @@ All users get alert message when they select wrong option or when they get done 
 
   https://github.com/basharatanis/Learn2Code
   
-  Goto the folder where you have downloaded the zip file and extract it.
+    Goto the folder where you have downloaded the zip file and extract it.
   
-  After that, import the extracted folder to the xcode. 
+    After that, import the extracted folder to the xcode. 
 
