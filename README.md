@@ -10,3 +10,5 @@ The user friendly features helps user to take a quiz.
 There is a reader which is available all the time during the quiz to learn about swift language. 
 All users get alert message when they select wrong option or when they get done with the quiz. 
 
+## Preview
+![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/gif/recording.gif)
