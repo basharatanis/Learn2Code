@@ -45,7 +45,7 @@ All users get alert message when they select wrong option or when they get done 
   and restart the quiz
   
 ## Wireframes
-![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/Wireframes/mainscreen.png 100x100)
+![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/Wireframes/mainscreen.png)
 ![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/Wireframes/quizscreen.png)
 ![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/Wireframes/reader.png)
 
