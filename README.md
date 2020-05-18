@@ -49,3 +49,10 @@ All users get alert message when they select wrong option or when they get done 
 ![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/Wireframes/quizscreen.png)
 ![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/Wireframes/reader.png)
 
+## Screenshots
+![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/Screenshots/mainscreen.png)
+![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/Screenshots/Quiz.png)
+![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/Screenshots/Reader.png)
+![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/Screenshots/Wrong.png)
+![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/Screenshots/Done.png)
+
