@@ -15,13 +15,18 @@ All users get alert message when they select wrong option or when they get done 
 
 ## There are two ways to run the project:
 
-1. git clone https://github.com/basharatanis/Learn2Code.git
-  cd Learn2Code
-  cd Learn2Code
-  cd Learn2Code
-  xed .
+1. git clone https://github.com/basharatanis/Learn2Code.git 
+    
+    cd Learn2Code
+  
+    cd Learn2Code
+  
+    cd Learn2Code
+    
+    xed . 
   
 2. The second way to run the project is to download the zip file from 
+
   https://github.com/basharatanis/Learn2Code
   
   Goto the folder where you have downloaded the zip file and extract it.
