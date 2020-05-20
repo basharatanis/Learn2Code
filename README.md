@@ -35,14 +35,17 @@ All users get alert message when they select wrong option or when they get done 
     
     
 ## Must-have features
-* A user gets informed when the wrong option is selected in the quiz
-* A user have a reader all the time during quiz to learn and select correct option.
+* Instructions on the main screen with a button to start the quiz.
+* Quiz with a seperate box for question and options at the button.
+* Menu button at the top to go back to main screen after the quiz.
+* Reader button at the top so that anybody can read and learn. 
 
 
 ## Nice-to-have features
-* A user get instructions at the main screen
-* There is a menu button at the top so that a user can go back to main screen 
-  and restart the quiz
+* A user gets alert when the wrong option is selected.
+* An appreciation alert after the user will get done with the quiz.
+* Good and simple color contrast in the LEARN2CODE application.
+* Big enough text font so that people can read easily.
   
 ## Wireframes
 ![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/Wireframes/wireframesC.png)
