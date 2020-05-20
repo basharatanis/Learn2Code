@@ -35,17 +35,17 @@ All users get alert message when they select wrong option or when they get done 
     
     
 ## Must-have features
-* Instructions on the main screen with a button to start the quiz.
-* Quiz with a seperate box for question and options at the button.
-* Menu button at the top to go back to main screen after the quiz.
-* Reader button at the top so that anybody can read and learn. 
+* Instructions on the main screen with a button to start the quiz. (5 mins)
+* Quiz with a seperate box for question and options under it. (40 mins)
+* Menu button at the top to go back to main screen after the quiz. (5 mins)
+* Reader button at the top so that anybody can read and learn. (20 mins)
 
 
 ## Nice-to-have features
-* A user gets alert when the wrong option is selected.
-* An appreciation alert after the user will get done with the quiz.
-* Good and simple color contrast in the LEARN2CODE application.
-* Big enough text font so that people can read easily.
+* A user gets alert when the wrong option is selected. (20 mins)
+* An appreciation alert after the user will get done with the quiz. (20 mins)
+* Good and simple color contrast in the LEARN2CODE application. (15 mins)
+* Big enough text font so that people can read easily. (5 mins)
   
 ## Wireframes
 ![](https://raw.githubusercontent.com/basharatanis/Learn2Code/master/Wireframes/wireframesC.png)
